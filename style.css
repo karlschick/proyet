@@ -1,0 +1,87 @@
+    
+    .logo  
+        {  
+        display: block;
+        padding: 50px ;
+        margin: 10px auto;
+        width: 200px;
+        }           /* Estilos para el logo */
+    .minilogo  
+        {   
+        padding: 20px ;
+        margin: 10px auto;
+        width: 300px;
+        }       /* Estilos para el minilogo */
+
+    .img-responsive
+        {
+        display:block;
+        width: 100vw;
+        height: auto;
+        max-width: 100%;
+        }
+    .nomAtory 
+        {
+        display:block;
+        margin: 10px auto;
+        width: 100vw;
+        height:12ch;
+        max-width: 80%;
+        }
+    .nomAtorymini {
+        display:block;
+        margin: 10px;
+        width: 30vw;
+        height:12ch;
+        max-width: 80%;
+        }
+    
+    .button  
+        {   
+        display:grid;
+        margin: 50px auto;
+        padding: 5px 10px 5px;
+        width: 200px;
+        background-color: #336699;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border:none;
+        border-radius: 50px;
+        font-size: 20px;
+        cursor: pointer;
+        }               /* Estilos para el botón */
+
+
+
+    input[type="text"],
+    input[type="tel"],
+    input[type="num"],
+        
+    textarea 
+        {
+        display:grid;
+        margin: 50px auto;
+        padding: 5px 10px 5px;
+        width: 200px;
+        background-color: #336699;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        border:none;
+        border-radius: 50px;
+        font-size: 20px;
+        cursor: pointer;
+        }
+        /*edicion de las cajas con textarea*/
+
+
+          
+          
+        .contenedor {
+        text-align:center;
+        }
+
+         /* los elementos dentro del contenedor se mostrarán en 
+         una sola línea y el contenido se justificará dentro 
+         del contenedor */ 
